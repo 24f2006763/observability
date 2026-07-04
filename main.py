@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 # --- ASSIGNED VALUES & DISK PERSISTENCE PATHS ---
-MY_EMAIL = "your-email@example.com"  # <-- CHANGE THIS to your actual logged-in email address
+MY_EMAIL = "24f2006763@ds.study.iitm.ac.in"  # <-- CHANGE THIS to your actual logged-in email address
 
 METRICS_FILE = "/tmp/observability_metrics.json"
 LOGS_FILE = "/tmp/observability_logs.json"
